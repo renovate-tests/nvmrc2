@@ -1,4 +1,4 @@
 {
   "extends": ["config:base"],
-  "prHourlyLimit": 20
+  "prHourlyLimit": 19
 }
